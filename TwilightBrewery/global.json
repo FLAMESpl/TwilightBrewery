@@ -1,5 +1,10 @@
 {
-  "sdk": {
-    "version": "5.0.103"
-  }
+    "sdk": {
+        "version": "5.0.201"
+    },  
+   "runtimeOptions": {
+    "configProperties": {
+       "System.Globalization.Invariant": true
+    }
+ }
 }
